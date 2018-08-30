@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.*;
-class rg
+class regex1
 {
 public static void main(String args[])
 {
